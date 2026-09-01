@@ -42,8 +42,7 @@ The complete script is executed in Python. Since input() cannot be used for auto
 Output
 ### Sample Conversation Output (Part 1)
 ●	The chatbot correctly greets the user and identifies the courses, eligibility, fees, application process and documents intents from the keywords present in each question.
-<img width="629" height="434" alt="image" src="https://github.com/user-attachments/assets/2d30330e-0a8a-4fc8-beda-aa15d9676a98" />
-Fig 1: Console output showing the chatbot answering course, eligibility, fee, application and document related queries.
+<img width="646" height="470" alt="image" src="https://github.com/user-attachments/assets/016e1f31-dd01-4348-8815-70b3577b1391" />
 ### Sample Conversation Output (Part 2)
 ●	The remaining queries about dates, hostel facility and contact details are correctly matched to their respective intents.
 ●	The conversation ends gracefully with a goodbye message once the user types “Bye”, terminating the chat loop.
